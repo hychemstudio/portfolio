@@ -5166,7 +5166,7 @@ body {
 }
 .cid-resvN9JU5L {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -5181,6 +5181,7 @@ body {
 }
 .cid-resvN9JU5L .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-rdxucnpa5h {
   padding-top: 30px;

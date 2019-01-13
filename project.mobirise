@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "illustration.html",
+    "currentPage": "logotype.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 115,
+    "uniqCompNum": 116,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },

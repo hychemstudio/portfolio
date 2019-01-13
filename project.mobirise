@@ -5563,7 +5563,7 @@
               "color": "#767676"
             },
             ".mbr-text B": {
-              "color": "#000000"
+              "color": "#ff3366"
             }
           },
           "_name": "content6",
@@ -5594,7 +5594,7 @@
               "color": "#767676"
             },
             ".mbr-text B": {
-              "color": "#000000"
+              "color": "#ff3366"
             }
           },
           "_name": "content6",

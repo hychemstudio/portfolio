@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "logotype.html",
+    "currentPage": "photographie.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -782,7 +782,7 @@
                 "title": ""
               },
               {
-                "active": true,
+                "active": false,
                 "thumb": "@PROJECT_PATH@/assets/images/amber-indian-art-2000x667-800x267.png",
                 "image": "@PROJECT_PATH@/assets/images/amber-indian-art-2000x667.png",
                 "alt": "",
@@ -792,6 +792,27 @@
                 "active": false,
                 "thumb": "@PROJECT_PATH@/assets/images/img-0812-2-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-0812-2-2000x1500.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/charlotte-elevation-1536x2000-800x1042.jpg",
+                "image": "@PROJECT_PATH@/assets/images/charlotte-elevation-1536x2000.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/maissa-india-black-final-926x923-800x797.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maissa-india-black-final-926x923.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "active": true,
+                "thumb": "@PROJECT_PATH@/assets/images/maissa-brahama-2000x2667-800x1067.png",
+                "image": "@PROJECT_PATH@/assets/images/maissa-brahama-2000x2667.png",
                 "alt": "",
                 "title": ""
               }

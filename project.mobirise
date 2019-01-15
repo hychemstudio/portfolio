@@ -7275,7 +7275,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animé",
@@ -7288,7 +7288,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": true
+                "active": false
               }
             ]
           },

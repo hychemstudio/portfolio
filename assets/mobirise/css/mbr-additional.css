@@ -2092,6 +2092,147 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rFKxWZVn9q {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mateo-snake-3-dec-2017-1000x1000.png");
+}
+.cid-rFKxWZVn9q .mbr-section-subtitle DIV {
+  text-align: center;
+}
+.cid-rFKxWZVn9q .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-rFKy0ZlLBp {
+  padding-top: 0px;
+  padding-bottom: 75px;
+  background-color: #000000;
+}
+.cid-rFKy0ZlLBp .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rFKy0ZlLBp .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rFKy0ZlLBp .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rFKy0ZlLBp .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rFKy0ZlLBp .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-rFKy0ZlLBp .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rFKy0ZlLBp .mbr-gallery-item > div:hover:before {
+  opacity: 0.6 !important;
+}
+.cid-rFKy0ZlLBp .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rFKy0ZlLBp .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.6;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
+.cid-rFKxVLAv7B {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-rFKxVLAv7B .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rFKxVLAv7B .media-wrap .mbr-iconfont-logo {
+  font-size: 7rem;
+  color: #f36;
+}
+.cid-rFKxVLAv7B .media-wrap img {
+  height: 6rem;
+}
+.cid-rFKxVLAv7B .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-rFKxVLAv7B .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rFKxVLAv7B .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: .05;
+}
+.cid-rFKxVLAv7B .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rFKxVLAv7B .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-rFKxVLAv7B .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rFKxVLAv7B .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rFKxVLAv7B .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rFKxVLAv7B .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-rFKxVLAv7B .copyright > p {
+  color: #000000;
+}
+.cid-rFKxVLAv7B .links {
+  color: #000000;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #000000;

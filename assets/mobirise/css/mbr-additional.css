@@ -5898,7 +5898,6 @@ section.lazy-placeholder:after {
 .cid-rGvxHxcYL1 {
   padding-top: 120px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/mateo-snake-3-dec-2017-1000x1000.png");
 }
 .cid-rGvxHxcYL1 .mbr-section-subtitle DIV {
   text-align: center;
@@ -5906,26 +5905,31 @@ section.lazy-placeholder:after {
 .cid-rGvxHxcYL1 .mbr-section-subtitle {
   text-align: center;
 }
-.cid-rGw606DC2N {
-  background: #0f7699;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #ffffff, #0f7699);
+.cid-rGBd96qwht {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #ffffff);
 }
-.cid-rGw606DC2N .image-block {
-  margin: auto;
+.cid-rGBd96qwht .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
-.cid-rGw606DC2N figcaption {
-  position: relative;
+@media (min-width: 992px) {
+  .cid-rGBd96qwht .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
 }
-.cid-rGw606DC2N figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+@media (max-width: 991px) {
+  .cid-rGBd96qwht .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-@media (max-width: 768px) {
-  .cid-rGw606DC2N .image-block {
-    width: 100% !important;
+@media (max-width: 767px) {
+  .cid-rGBd96qwht .mbr-text {
+    text-align: center;
   }
 }
 .cid-rGvxH0v8wq {

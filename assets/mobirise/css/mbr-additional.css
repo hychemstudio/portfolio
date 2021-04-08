@@ -3143,7 +3143,7 @@ section.lazy-placeholder:after {
 .cid-rFRndozs6f {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-rFRndozs6f .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -5958,26 +5958,48 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/ari-lennox-interview-gq-2-1296x1996.jpeg");
 }
-.cid-rGBkUgBbEZ {
+.cid-stZQCSv4XX {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #125a38, #c09650);
+  background: linear-gradient(45deg, #0059b6, #ffffff);
 }
 @media (min-width: 992px) {
-  .cid-rGBkUgBbEZ .mbr-figure {
+  .cid-stZQCSv4XX .mbr-figure {
     padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-rGBkUgBbEZ .mbr-figure {
+  .cid-stZQCSv4XX .mbr-figure {
     padding-top: 3rem;
   }
 }
-.cid-rGBkUgBbEZ .mbr-section-title {
+.cid-stZQCSv4XX .mbr-section-title {
   text-align: left;
 }
-.cid-rGBkUgBbEZ .mbr-text,
-.cid-rGBkUgBbEZ .mbr-section-btn {
+.cid-stZQCSv4XX .mbr-text,
+.cid-stZQCSv4XX .mbr-section-btn {
+  text-align: left;
+}
+.cid-stZRgOEkaR {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #006233, #b00000);
+}
+@media (min-width: 992px) {
+  .cid-stZRgOEkaR .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-stZRgOEkaR .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-stZRgOEkaR .mbr-section-title {
+  text-align: left;
+}
+.cid-stZRgOEkaR .mbr-text,
+.cid-stZRgOEkaR .mbr-section-btn {
   text-align: left;
 }
 .cid-s94LYhfsGa {
@@ -6002,26 +6024,26 @@ section.lazy-placeholder:after {
 .cid-s94LYhfsGa .mbr-section-btn {
   text-align: left;
 }
-.cid-s94Msnthan {
+.cid-rGBkUgBbEZ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #0f7699, #ffffff);
+  background: linear-gradient(45deg, #125a38, #c09650);
 }
 @media (min-width: 992px) {
-  .cid-s94Msnthan .mbr-figure {
+  .cid-rGBkUgBbEZ .mbr-figure {
     padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-s94Msnthan .mbr-figure {
+  .cid-rGBkUgBbEZ .mbr-figure {
     padding-top: 3rem;
   }
 }
-.cid-s94Msnthan .mbr-section-title {
+.cid-rGBkUgBbEZ .mbr-section-title {
   text-align: left;
 }
-.cid-s94Msnthan .mbr-text,
-.cid-s94Msnthan .mbr-section-btn {
+.cid-rGBkUgBbEZ .mbr-text,
+.cid-rGBkUgBbEZ .mbr-section-btn {
   text-align: left;
 }
 .cid-rGBvkNmWuL {

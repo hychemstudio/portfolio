@@ -678,6 +678,29 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-txKHdpzuc6 {
+  background: #ffffff;
+}
+.cid-txKHdpzuc6 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-txKHdpzuc6 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-txKHdpzuc6 figcaption {
+  position: relative;
+}
+.cid-txKHdpzuc6 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-txKHdpzuc6 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-s99S5QE6fY .navbar {
   padding: .5rem 0;
   background: #000000;
@@ -1066,6 +1089,9 @@ section.lazy-placeholder:after {
 .cid-s99S5QE6fY .nav-link:hover,
 .cid-s99S5QE6fY .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-txKTQiOtgk {
+  background-image: url("../../../assets/images/hychem-dajjal-2-bisss-copie-2-2000x1087.jpg");
 }
 .cid-rEr7aCYxX6 {
   padding-top: 45px;
@@ -4810,7 +4836,7 @@ section.lazy-placeholder:after {
 .cid-sIfoyYrSKV {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-sIfoyYrSKV h2 {
   text-align: left;
@@ -4869,10 +4895,13 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
+.cid-sIfoyYrSKV .mbr-text {
+  color: #cccccc;
+}
 .cid-sIfsRt3JJZ {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-sIfsRt3JJZ h2 {
   text-align: left;
@@ -4943,10 +4972,13 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
+.cid-sIfsRt3JJZ .mbr-text {
+  color: #cccccc;
+}
 .cid-sIgNRQq2pS {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-sIgNRQq2pS h2 {
   text-align: left;
@@ -5004,6 +5036,9 @@ section.lazy-placeholder:after {
   .cid-sIgNRQq2pS .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-sIgNRQq2pS .mbr-text {
+  color: #cccccc;
 }
 .cid-rGGw2XkB3Y {
   padding-top: 15px;

@@ -56,7 +56,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "imageResize": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {

@@ -1088,7 +1088,7 @@ section.lazy-placeholder:after {
 .cid-tzP77Mlztp {
   background: #000000;
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 75px;
 }
 .cid-tzP77Mlztp .image-block {
   margin: auto;
@@ -5053,6 +5053,83 @@ section.lazy-placeholder:after {
 .cid-sIgNRQq2pS .mbr-text {
   color: #cccccc;
 }
+.cid-tzQqeEhjL0 {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #000000;
+}
+.cid-tzQqeEhjL0 h2 {
+  text-align: left;
+}
+.cid-tzQqeEhjL0 h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-tzQqeEhjL0 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-tzQqeEhjL0 .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-tzQqeEhjL0 .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-tzQqeEhjL0 .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-tzQqeEhjL0 .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-tzQqeEhjL0 .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-tzQqeEhjL0 .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-tzQqeEhjL0 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-tzQqeEhjL0 .media-container-row {
+    -webkit-flex-direction: row-reverse;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tzQqeEhjL0 .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-tzQqeEhjL0 .media-container-row {
+    -webkit-flex-direction: column-reverse;
+  }
+}
+@media (max-width: 300px) {
+  .cid-tzQqeEhjL0 .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-tzQqeEhjL0 .mbr-text {
+  color: #cccccc;
+}
 .cid-rGGw2XkB3Y {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -5063,108 +5140,6 @@ section.lazy-placeholder:after {
 }
 .cid-rGGw2XkB3Y .btn {
   margin: 0 0 .5rem 0;
-}
-.cid-rGGw6mSI7h {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #cccccc;
-}
-.cid-rGGw6mSI7h .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rGGw6mSI7h .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-rGGwdsztE6 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rGGwdsztE6 .mbr-section-subtitle {
-  color: #767676;
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rGGwdsztE6 .timeline-text-content {
-  padding: 2rem 2.5rem;
-  background: #efefef;
-  margin-right: 2rem;
-  transition: all .4s;
-}
-.cid-rGGwdsztE6 .timeline-text-content p {
-  margin-bottom: 0;
-}
-.cid-rGGwdsztE6 .timeline-element {
-  margin-bottom: 50px;
-  position: relative;
-  word-wrap: break-word;
-  word-break: break-word;
-  display: -webkit-flex;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-}
-.cid-rGGwdsztE6 .timeline-element:hover .timeline-text-content {
-  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
-  transition: all .4s;
-}
-.cid-rGGwdsztE6 .reverse {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-.cid-rGGwdsztE6 .reverse .timeline-text-content {
-  margin-left: 2rem;
-  margin-right: 0;
-}
-.cid-rGGwdsztE6 .iconsBackground {
-  position: absolute;
-  left: 50%;
-  width: 60px;
-  height: 60px;
-  line-height: 30px;
-  text-align: center;
-  border-radius: 50%;
-  display: inline-block;
-  background-color: #efefef;
-  top: 20px;
-  margin-left: -30px;
-}
-.cid-rGGwdsztE6 .mbr-iconfont {
-  position: absolute;
-  text-align: center;
-  font-size: 35px;
-  display: inline-block;
-  z-index: 3;
-  top: 13px;
-  left: 13px;
-}
-.cid-rGGwdsztE6 .separline:before {
-  top: 20px;
-  bottom: 0;
-  position: absolute;
-  content: "";
-  width: 2px;
-  background-color: #efefef;
-  left: calc(50% - 1px);
-  height: calc(100% + 4rem);
-}
-@media (max-width: 768px) {
-  .cid-rGGwdsztE6 .iconsBackground {
-    left: 1.5rem;
-  }
-  .cid-rGGwdsztE6 .separline:before {
-    left: calc(1.5rem - 1px);
-  }
-  .cid-rGGwdsztE6 .timeline-text-content {
-    margin-left: 3rem !important;
-    margin-right: 0 !important;
-  }
-  .cid-rGGwdsztE6 .reverse .timeline-text-content {
-    margin-right: 0 !important;
-  }
-}
-.cid-rGGwdsztE6 .reverseTimeline {
-  display: flex;
-  flex-direction: column-reverse;
 }
 .cid-rGGuY26cPX {
   padding-top: 45px;

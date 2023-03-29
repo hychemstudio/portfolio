@@ -4837,7 +4837,7 @@ section.lazy-placeholder:after {
 }
 .cid-rGGvaLwSGu {
   padding-top: 135px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 .cid-rGGvaLwSGu P {
@@ -5129,17 +5129,6 @@ section.lazy-placeholder:after {
 }
 .cid-tzQqeEhjL0 .mbr-text {
   color: #cccccc;
-}
-.cid-rGGw2XkB3Y {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #efefef;
-}
-.cid-rGGw2XkB3Y .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rGGw2XkB3Y .btn {
-  margin: 0 0 .5rem 0;
 }
 .cid-rGGuY26cPX {
   padding-top: 45px;
@@ -6113,6 +6102,28 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/paysage-neige-1400x1050.jpeg");
 }
+.cid-tzTeQHVpXX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/vlcsnap-2023-03-29-13h09m26s223-vf-2000x1125.jpg");
+}
+@media (min-width: 992px) {
+  .cid-tzTeQHVpXX .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tzTeQHVpXX .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-tzTeQHVpXX .mbr-section-title {
+  text-align: left;
+}
+.cid-tzTeQHVpXX .mbr-text,
+.cid-tzTeQHVpXX .mbr-section-btn {
+  text-align: left;
+}
 .cid-sIbtZfYjh4 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -6233,6 +6244,28 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/ari-lennox-interview-gq-2-1296x1996.jpeg");
 }
+.cid-s94LYhfsGa {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #000000, #abd684);
+}
+@media (min-width: 992px) {
+  .cid-s94LYhfsGa .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s94LYhfsGa .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-s94LYhfsGa .mbr-section-title {
+  text-align: left;
+}
+.cid-s94LYhfsGa .mbr-text,
+.cid-s94LYhfsGa .mbr-section-btn {
+  text-align: left;
+}
 .cid-stZQCSv4XX {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -6258,7 +6291,7 @@ section.lazy-placeholder:after {
 .cid-stZRgOEkaR {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #006233, #b00000);
+  background: linear-gradient(45deg, #0e4028, #98162c);
 }
 @media (min-width: 992px) {
   .cid-stZRgOEkaR .mbr-figure {
@@ -6275,28 +6308,6 @@ section.lazy-placeholder:after {
 }
 .cid-stZRgOEkaR .mbr-text,
 .cid-stZRgOEkaR .mbr-section-btn {
-  text-align: left;
-}
-.cid-s94LYhfsGa {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #000000, #ff3366);
-}
-@media (min-width: 992px) {
-  .cid-s94LYhfsGa .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s94LYhfsGa .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-s94LYhfsGa .mbr-section-title {
-  text-align: left;
-}
-.cid-s94LYhfsGa .mbr-text,
-.cid-s94LYhfsGa .mbr-section-btn {
   text-align: left;
 }
 .cid-rGBPwVIX4l {
